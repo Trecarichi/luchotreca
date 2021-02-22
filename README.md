@@ -1,3 +1,3 @@
 # luchotreca
 git
-Estos son mis ejercicios prueba de Pyton
+Estos son mis ejercicios prueba de Pyhton
